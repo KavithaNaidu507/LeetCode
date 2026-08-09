@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/KavithaNaidu507/LeetCode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
