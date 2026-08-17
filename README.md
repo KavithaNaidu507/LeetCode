@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/KavithaNaidu507/LeetCode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/KavithaNaidu507/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/KavithaNaidu507/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
