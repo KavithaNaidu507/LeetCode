@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KavithaNaidu507/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/KavithaNaidu507/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KavithaNaidu507/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
