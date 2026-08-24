@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KavithaNaidu507/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KavithaNaidu507/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KavithaNaidu507/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KavithaNaidu507/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KavithaNaidu507/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/KavithaNaidu507/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KavithaNaidu507/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KavithaNaidu507/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KavithaNaidu507/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -113,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
