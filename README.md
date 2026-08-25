@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KavithaNaidu507/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KavithaNaidu507/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavithaNaidu507/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KavithaNaidu507/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KavithaNaidu507/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KavithaNaidu507/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/KavithaNaidu507/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KavithaNaidu507/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KavithaNaidu507/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KavithaNaidu507/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
