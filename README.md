@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KavithaNaidu507/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KavithaNaidu507/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/KavithaNaidu507/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KavithaNaidu507/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KavithaNaidu507/LeetCode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KavithaNaidu507/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KavithaNaidu507/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/KavithaNaidu507/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KavithaNaidu507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0344-reverse-string) |
