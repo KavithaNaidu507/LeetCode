@@ -1,18 +1,7 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        arr=[]
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         n=len(nums)
         for i in range(n):
-            arr.append((nums[i],i))
-        arr.sort()
-        left=0
-        right=n-1
-        while left<right:
-            sum=arr[left][0]+arr[right][0]
-            if sum==target:
-                return arr[left][1],arr[right][1]
-            elif sum>target:
-                right-=1
-            else:
-                left+=1
-        return []
+            for j in range(i+1,n):
+                if nums[i]+nums[j]==target:
+                    return i,j
