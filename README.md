@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KavithaNaidu507/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KavithaNaidu507/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/KavithaNaidu507/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KavithaNaidu507/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KavithaNaidu507/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KavithaNaidu507/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/KavithaNaidu507/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KavithaNaidu507/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KavithaNaidu507/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KavithaNaidu507/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KavithaNaidu507/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -224,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
