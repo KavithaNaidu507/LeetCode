@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KavithaNaidu507/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/KavithaNaidu507/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KavithaNaidu507/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KavithaNaidu507/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/KavithaNaidu507/LeetCode/tree/master/0860-lemonade-change) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/KavithaNaidu507/LeetCode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KavithaNaidu507/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Database
 |  |
@@ -143,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KavithaNaidu507/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/KavithaNaidu507/LeetCode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KavithaNaidu507/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KavithaNaidu507/LeetCode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/KavithaNaidu507/LeetCode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -252,5 +256,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KavithaNaidu507/LeetCode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/KavithaNaidu507/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/KavithaNaidu507/LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
