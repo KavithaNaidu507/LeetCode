@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/KavithaNaidu507/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1079-letter-tile-possibilities](https://github.com/KavithaNaidu507/LeetCode/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KavithaNaidu507/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KavithaNaidu507/LeetCode/tree/master/0229-majority-element-ii) |
+| [1079-letter-tile-possibilities](https://github.com/KavithaNaidu507/LeetCode/tree/master/1079-letter-tile-possibilities) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/KavithaNaidu507/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/KavithaNaidu507/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/KavithaNaidu507/LeetCode/tree/master/0709-to-lower-case) |
+| [1079-letter-tile-possibilities](https://github.com/KavithaNaidu507/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KavithaNaidu507/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Union-Find
 |  |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KavithaNaidu507/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/KavithaNaidu507/LeetCode/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
