@@ -1,7 +1,9 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        prev_rob, max_rob = 0, 0
-        for current in nums:
-            temp = max(max_rob, prev_rob + current)
-            prev_rob, max_rob = max_rob, temp
-        return max_rob 
+        prev2 = 0
+        prev1 = 0
+        for money in nums:
+            curr = max(prev1, prev2 + money)
+            prev2 = prev1
+            prev1 = curr
+        return prev1
