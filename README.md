@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KavithaNaidu507/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KavithaNaidu507/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/KavithaNaidu507/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KavithaNaidu507/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1079-letter-tile-possibilities](https://github.com/KavithaNaidu507/LeetCode/tree/master/1079-letter-tile-possibilities) |
 ## Bit Manipulation
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KavithaNaidu507/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/KavithaNaidu507/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/KavithaNaidu507/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/KavithaNaidu507/LeetCode/tree/master/0709-to-lower-case) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavithaNaidu507/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KavithaNaidu507/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KavithaNaidu507/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Memoization
 |  |
 | ------- |
