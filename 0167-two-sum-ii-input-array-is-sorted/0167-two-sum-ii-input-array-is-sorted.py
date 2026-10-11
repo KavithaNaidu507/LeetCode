@@ -1,13 +1,12 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
-        p1=0
-        p2=len(numbers)-1
-        while p1<p2:
-            if numbers[p1]+numbers[p2]==target:
-                return [p1+1,p2+1]
-            elif numbers[p1]+numbers[p2]>target:
-                p2-=1
+        start,end=0,len(numbers)-1
+        while start < end:
+            curr = numbers[start]+numbers[end]
+            if curr==target:
+                return [start+1,end+1]
+            if curr <target:
+                start+=1
             else:
-                p1+=1
-        return []
+                end-=1
         
