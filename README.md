@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/KavithaNaidu507/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/KavithaNaidu507/LeetCode/tree/master/0709-to-lower-case) |
 | [1079-letter-tile-possibilities](https://github.com/KavithaNaidu507/LeetCode/tree/master/1079-letter-tile-possibilities) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/KavithaNaidu507/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KavithaNaidu507/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Union-Find
 |  |
