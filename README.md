@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KavithaNaidu507/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KavithaNaidu507/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KavithaNaidu507/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/KavithaNaidu507/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/KavithaNaidu507/LeetCode/tree/master/0860-lemonade-change) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KavithaNaidu507/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KavithaNaidu507/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KavithaNaidu507/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KavithaNaidu507/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KavithaNaidu507/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/KavithaNaidu507/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Memoization
 |  |
 | ------- |
